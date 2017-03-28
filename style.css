@@ -77,7 +77,7 @@ li {
 }
 
 .about-container {
-  background: url(background.jpg) no-repeat center center fixed;
+  background: url(img/background.jpg) no-repeat center center fixed;
   height: 600px; 
 }
 
